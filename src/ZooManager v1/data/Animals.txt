@@ -1,0 +1,6 @@
+African Elephant, LA004324, M,   11, 03.24.2011, A03
+African Elephant, LA000104, F,   24, 09.19.2005, A03
+Giraffe, GI310542, F,   10, 10.10.2020, B14
+Cinereous Vulture, AM253431, M,   9, 06.11.2019, C07
+Lion, PL210345, M,   8, 08.11.2016, A14
+Lion, PL320541, F,   5, 04.09.2021, A14
