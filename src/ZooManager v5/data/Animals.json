@@ -1,0 +1,208 @@
+{
+    "Name": "Oswego Zoo",
+    "Location": "Shineman Center 444, Oswego, NY 13126",
+    "Phone": "315-312-2500",
+    "Open Hours": "9AM-5PM, Monday to Friday",
+    "Number of Animals": 16,
+    "Animals": [
+        {
+            "Species": "Giant Panda",
+            "ID": "AI000011",
+            "Sex": "M",
+            "Age": 3,
+            "Imported Date": "07.04.2022",
+            "Area": "A11"
+        },
+        {
+            "Species": "Cinereous Vulture",
+            "ID": "AM253431",
+            "Sex": "M",
+            "Age": 9,
+            "Imported Date": "06.11.2019",
+            "Area": "C07"
+        },
+        {
+            "Species": "Zebra",
+            "ID": "EQ000132",
+            "Sex": "M",
+            "Age": 7,
+            "Imported Date": "06.11.2017",
+            "Area": "A05"
+        },
+        {
+            "Species": "Zebra",
+            "ID": "EQ002201",
+            "Sex": "F",
+            "Age": 6,
+            "Imported Date": "03.03.2019",
+            "Area": "A05"
+        },
+        {
+            "Species": "Giraffe",
+            "ID": "GI310542",
+            "Sex": "F",
+            "Age": 10,
+            "Imported Date": "10.10.2020",
+            "Area": "B14"
+        },
+        {
+            "Species": "African Elephant",
+            "ID": "LA000104",
+            "Sex": "F",
+            "Age": 24,
+            "Imported Date": "09.19.2005",
+            "Area": "A03"
+        },
+        {
+            "Species": "African Elephant",
+            "ID": "LA004324",
+            "Sex": "M",
+            "Age": 11,
+            "Imported Date": "03.24.2011",
+            "Area": "A03"
+        },
+        {
+            "Species": "Leopard",
+            "ID": "PA002123",
+            "Sex": "F",
+            "Age": 5,
+            "Imported Date": "11.29.2021",
+            "Area": "B02"
+        },
+        {
+            "Species": "Leopard",
+            "ID": "PA002124",
+            "Sex": "M",
+            "Age": 7,
+            "Imported Date": "11.29.2021",
+            "Area": "B02"
+        },
+        {
+            "Species": "Peafowl",
+            "ID": "PH000311",
+            "Sex": "M",
+            "Age": 8,
+            "Imported Date": "08.11.2016",
+            "Area": "C05"
+        },
+        {
+            "Species": "Peafowl",
+            "ID": "PH000333",
+            "Sex": "F",
+            "Age": 9,
+            "Imported Date": "08.11.2016",
+            "Area": "C05"
+        },
+        {
+            "Species": "Peafowl",
+            "ID": "PH000334",
+            "Sex": "F",
+            "Age": 7,
+            "Imported Date": "08.11.2016",
+            "Area": "C05"
+        },
+        {
+            "Species": "Lion",
+            "ID": "PL210345",
+            "Sex": "M",
+            "Age": 8,
+            "Imported Date": "08.11.2016",
+            "Area": "A14"
+        },
+        {
+            "Species": "Lion",
+            "ID": "PL320541",
+            "Sex": "F",
+            "Age": 5,
+            "Imported Date": "04.09.2021",
+            "Area": "A14"
+        },
+        {
+            "Species": "Ostrich",
+            "ID": "ST000021",
+            "Sex": "M",
+            "Age": 4,
+            "Imported Date": "04.09.2021",
+            "Area": "C01"
+        },
+        {
+            "Species": "Ostrich",
+            "ID": "ST000022",
+            "Sex": "F",
+            "Age": 4,
+            "Imported Date": "04.09.2021",
+            "Area": "C01"
+        }
+    ],
+    "Areas": [
+        {
+            "Section": "A",
+            "Animal Type": "Herbivore",
+            "Number of Areas": 15,
+            "Number of Areas Occupied": 4,
+            "Area": [
+                {
+                    "Area Number": 3,
+                    "Species of Animal": "African Elephant",
+                    "Number of Animals Stayed": 2
+                },
+                {
+                    "Area Number": 5,
+                    "Species of Animal": "Zebra",
+                    "Number of Animals Stayed": 2
+                },
+                {
+                    "Area Number": 11,
+                    "Species of Animal": "Giant Panda",
+                    "Number of Animals Stayed": 1
+                },
+                {
+                    "Area Number": 14,
+                    "Species of Animal": "Lion",
+                    "Number of Animals Stayed": 2
+                }
+            ]
+        },
+        {
+            "Section": "B",
+            "Animal Type": "Carnivore",
+            "Number of Areas": 15,
+            "Number of Areas Occupied": 2,
+            "Area": [
+                {
+                    "Area Number": 2,
+                    "Species of Animal": "Leopard",
+                    "Number of Animals Stayed": 2
+                },
+                {
+                    "Area Number": 14,
+                    "Species of Animal": "Giraffe",
+                    "Number of Animals Stayed": 1
+                }
+            ]
+        },
+        {
+            "Section": "C",
+            "Animal Type": "Bird",
+            "Number of Areas": 10,
+            "Number of Areas Occupied": 3,
+            "Area": [
+                {
+                    "Area Number": 1,
+                    "Species of Animal": "Ostrich",
+                    "Number of Animals Stayed": 2
+                },
+                {
+                    "Area Number": 5,
+                    "Species of Animal": "Peafowl",
+                    "Number of Animals Stayed": 3
+                },
+                {
+                    "Area Number": 7,
+                    "Species of Animal": "Cinereous Vulture",
+                    "Number of Animals Stayed": 1
+                }
+            ]
+        }
+    ]
+}
