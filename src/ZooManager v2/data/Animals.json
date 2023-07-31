@@ -1,0 +1,57 @@
+{
+    "Name": "Oswego Zoo",
+    "Location": "Shineman Center 444, Oswego, NY 13126",
+    "Phone": "315-312-2500",
+    "Open Hours": "9AM-5PM, Monday to Friday",
+    "Number of Animals": 6,
+    "Animals": [
+        {
+            "Species": "African Elephant",
+            "ID": "LA004324",
+            "Sex": "M",
+            "Age": 11,
+            "Imported Date": "03.24.2011",
+            "Area": "A03"
+        },
+        {
+            "Species": "African Elephant",
+            "ID": "LA000104",
+            "Sex": "F",
+            "Age": 24,
+            "Imported Date": "09.19.2005",
+            "Area": "A03"
+        },
+        {
+            "Species": "Giraffe",
+            "ID": "GI310542",
+            "Sex": "F",
+            "Age": 10,
+            "Imported Date": "10.10.2020",
+            "Area": "B14"
+        },
+        {
+            "Species": "Cinereous Vulture",
+            "ID": "AM253431",
+            "Sex": "M",
+            "Age": 9,
+            "Imported Date": "06.11.2019",
+            "Area": "C07"
+        },
+        {
+            "Species": "Lion",
+            "ID": "PL210345",
+            "Sex": "M",
+            "Age": 8,
+            "Imported Date": "08.11.2016",
+            "Area": "A14"
+        },
+        {
+            "Species": "Lion",
+            "ID": "PL320541",
+            "Sex": "F",
+            "Age": 5,
+            "Imported Date": "04.09.2021",
+            "Area": "A14"
+        }
+    ]
+}
